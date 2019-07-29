@@ -1,0 +1,14 @@
+[
+    {
+      "_id": "1",
+      "name": "Admins"
+    },
+    {
+      "_id": "2",
+      "name": "Members"
+    },
+    {
+      "_id": "3",
+      "name": "Guests"
+    }
+]

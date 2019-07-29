@@ -1,0 +1,14 @@
+[
+    {
+      "_id": "1",
+      "name": "CEO"
+    },
+    {
+      "_id": "2",
+      "name": "Supervisor"
+    },
+    {
+      "_id": "3",
+      "name": "Architect"
+    }
+]
